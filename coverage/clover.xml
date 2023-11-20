@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1700508452080" clover="3.2.0">
+  <project timestamp="1700508452081" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="15" coveredelements="15" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="D:\Testing\Test WEB\3DZ1\app.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="8" type="stmt"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="5" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="8" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
